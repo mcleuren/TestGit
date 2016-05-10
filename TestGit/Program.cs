@@ -12,6 +12,7 @@ namespace TestGit
         {
             Console.WriteLine("Welkom door Ronny2");
             Console.WriteLine("Welkom Mariella");
+            Console.WriteLine("Welkom door Mariella");
         }
     }
 }
